@@ -1,0 +1,48 @@
+.container{
+    max-width: 500px;
+    margin: auto;
+}
+
+.mtb-3{
+	margin-top: 21rem;
+}
+
+table {
+    font-family: calibri;
+    width: 430px;
+    background: #c5d0e6ea;
+    padding: 10px;
+    color:#755D9A;
+    border-radius: 10px;
+    font-size: 17px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+th {
+    font-size: 19px;
+    text-decoration: underline;
+}
+td {
+    background: #a2add09d;
+    padding: 13px;
+    border-radius: 5px
+    
+}
+td, th
+{
+    text-align: center;
+}
+
+.table td{
+    transition: all .3s;
+}
+
+.table td:hover {
+    background-color: #755d9a4d;
+    color: #391a66;
+}
+
+            
+
+
+            
+            
